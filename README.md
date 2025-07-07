@@ -67,5 +67,5 @@
 
 ---
 
-_⭐ Feel free to explore my repositories and drop a ⭐ if you find something useful!_
+_⭐ Feel free to explore my public repositories and drop a ⭐ if you find something useful!_
 
